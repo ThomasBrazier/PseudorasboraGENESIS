@@ -1,0 +1,16 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf Data/batch_1.vcf
+	--keep Data/list.ind
+	--out Data/Pparva3000
+	--recode
+	--snps Data/list.loci
+
+Keeping individuals in 'keep' list
+After filtering, kept 468 out of 849 Individuals
+Outputting VCF file...
+After filtering, kept 3000 out of a possible 3999 Sites
+Run Time = 2.00 seconds
