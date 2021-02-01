@@ -1,0 +1,18 @@
+Command launched for initialization of RNGs of project 'Pparva_SourceWesternEurope2' : "C:\Users\tbrazier\AppData\Local\Temp\_MEI91362\data\bin\diyabc-comput-win-i386" -p "C:/Users/tbrazier/Google Drive/INRA PSEUDORASBORA/Analyses/DIYABC/Pparva_SourceWesternEurope2_2019_5_20-1/" -n "t:4"
+
+Command launched for RNGs check of project 'Pparva_SourceWesternEurope2' : "C:\Users\tbrazier\AppData\Local\Temp\_MEI91362\data\bin\diyabc-comput-win-i386" -z "C:/Users/tbrazier/Google Drive/INRA PSEUDORASBORA/Analyses/DIYABC/Pparva_SourceWesternEurope2_2019_5_20-1/RNG_state_0000.bin"
+
+Command launched : "C:\Users\tbrazier\AppData\Local\Temp\_MEI91362\data\bin\diyabc-comput-win-i386" -p "C:/Users/tbrazier/Google Drive/INRA PSEUDORASBORA/Analyses/DIYABC/Pparva_SourceWesternEurope2_2019_5_20-1/" -r 40000 -g 100 -m -t 4
+
+Command launched for analysis 'Prior01' : "C:\Users\tbrazier\AppData\Local\Temp\_MEI91362\data\bin\diyabc-comput-win-i386" -p "C:/Users/tbrazier/Google Drive/INRA PSEUDORASBORA/Analyses/DIYABC/Pparva_SourceWesternEurope2_2019_5_20-1/" -d "a:pl" -i Prior01 -g 100 -m -t 4
+
+Command launched for RNGs check of project 'Pparva_SourceWesternEurope2' : /Applications/diyabc-2.1.0.app/Contents/Resources/data/bin/diyabc-comput-mac-x64 -z "/Users/feral/Google Drive/INRA PSEUDORASBORA/Analyses/DIYABC/Pparva_SourceWesternEurope2_2019_5_21-1/RNG_state_0000.bin"
+
+Command launched : /Applications/diyabc-2.1.0.app/Contents/Resources/data/bin/diyabc-comput-mac-x64 -p "/Users/feral/Google Drive/INRA PSEUDORASBORA/Analyses/DIYABC/Pparva_SourceWesternEurope2_2019_5_21-1/" -r 40000 -g 100 -m -t 1
+
+Command launched for RNGs check of project 'Pparva_SourceWesternEurope2' : "C:\Users\tbrazier\AppData\Local\Temp\_MEI48562\data\bin\diyabc-comput-win-i386" -z "C:/Users/tbrazier/Google Drive/INRA PSEUDORASBORA/Analyses/DIYABC/Pparva_SourceWesternEurope2_2019_5_21-1/RNG_state_0000.bin"
+
+Command launched : "C:\Users\tbrazier\AppData\Local\Temp\_MEI48562\data\bin\diyabc-comput-win-i386" -p "C:/Users/tbrazier/Google Drive/INRA PSEUDORASBORA/Analyses/DIYABC/Pparva_SourceWesternEurope2_2019_5_21-1/" -r 40000 -g 100 -m -t 4
+
+Command launched for analysis 'Prior01' : "C:\Users\tbrazier\AppData\Local\Temp\_MEI48562\data\bin\diyabc-comput-win-i386" -p "C:/Users/tbrazier/Google Drive/INRA PSEUDORASBORA/Analyses/DIYABC/Pparva_SourceWesternEurope2_2019_5_21-1/" -d "a:pl" -i Prior01 -g 100 -m -t 4
+

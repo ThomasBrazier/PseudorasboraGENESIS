@@ -1,0 +1,10 @@
+Command launched for initialization of RNGs of project 'Pparva_SourceIran' : "C:\Users\tbrazier\AppData\Local\Temp\_MEI55362\data\bin\diyabc-comput-win-i386" -p "C:/Users/tbrazier/Google Drive/INRA PSEUDORASBORA/Analyses/DIYABC/Pparva_SourceIran_2019_4_29-1/" -n "t:4"
+
+Command launched for initialization of RNGs of project 'Pparva_SourceIran' : "C:\Users\tbrazier\AppData\Local\Temp\_MEI55362\data\bin\diyabc-comput-win-i386" -p "C:/Users/tbrazier/Google Drive/INRA PSEUDORASBORA/Analyses/DIYABC/Pparva_SourceIran_2019_4_29-1/" -n "t:4"
+
+Command launched for initialization of RNGs of project 'Pparva_SourceIran' : "C:\Users\tbrazier\AppData\Local\Temp\_MEI55362\data\bin\diyabc-comput-win-i386" -p "C:/Users/tbrazier/Google Drive/INRA PSEUDORASBORA/Analyses/DIYABC/Pparva_SourceIran_2019_4_29-1/" -n "t:4"
+
+Command launched for RNGs check of project 'Pparva_SourceIran' : "C:\Users\tbrazier\AppData\Local\Temp\_MEI55362\data\bin\diyabc-comput-win-i386" -z "C:/Users/tbrazier/Google Drive/INRA PSEUDORASBORA/Analyses/DIYABC/Pparva_SourceIran_2019_4_29-1/RNG_state_0000.bin"
+
+Command launched : "C:\Users\tbrazier\AppData\Local\Temp\_MEI55362\data\bin\diyabc-comput-win-i386" -p "C:/Users/tbrazier/Google Drive/INRA PSEUDORASBORA/Analyses/DIYABC/Pparva_SourceIran_2019_4_29-1/" -r 400000 -g 100 -m -t 4
+
